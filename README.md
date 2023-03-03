@@ -17,6 +17,6 @@
 
     actualizar_sede(db, localidad, nuevo_coordinador): Con esta funcion podremos actualizar el cordinador de nuestra sala 
     
-    esta función actualiza el campo 'coordinador' de la tabla 'sede' correspondiente a la localidad proporcionada como argumento, con el valor proporcionado como segundo argumento.
+    esta función actualiza el campo 'coordinador' de la tabla 'sede' correspondiente a la localidad proporcionada.
 
   
